@@ -1,2 +1,1 @@
-# OLX-web
-Code With SMR
+# OLX
